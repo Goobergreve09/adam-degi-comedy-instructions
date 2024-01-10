@@ -53,7 +53,18 @@ Next, Navigate to the **Home** tab as seen in the image.
 
 ![click home image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a48da524-5be7-4ec3-870e-3d3b8c672721)
 
-Next, Navigat to the **Shows** tab by clicking shows.
+Next, Navigate to the **Shows** tab by clicking shows.
+
+![shows image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/7a5d6669-87a6-419b-aa0a-d214a258b227)
+
+From here enter the page editor by clicking **edit**
+
+![click edit image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/bf76b6cf-ef42-46c6-ac24-28124a075709)
+
+On this page, click the box that you would like to edit the text of.
+
+
+
 ## Contributions
 
 
