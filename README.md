@@ -33,7 +33,7 @@ From here enter the page editor by clicking **edit**
 
 ![click edit image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/bf76b6cf-ef42-46c6-ac24-28124a075709)
 
-Next, we're going to click **edit gallery** to view the gallery editor
+Next, we're going to click the slideshow, then click **edit gallery** to view the gallery editor
 
 ![edit gallery image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/b582fb86-c9d6-480d-b855-2d2938e0fbcc)
 
