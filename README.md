@@ -63,8 +63,9 @@ From here enter the page editor by clicking **edit**
 
 On this page, click the box that you would like to edit the text of.
 
+![box of text](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a0d4f833-1136-4e56-a491-6be7d243df18)
 
-
+Next, highlight the words `Get Tickets` and look up the the text editor above.
 ## Contributions
 
 
