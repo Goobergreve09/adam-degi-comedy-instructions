@@ -31,10 +31,11 @@ Next, navigate to the **Bio** page by clicking the Bio tab.
 
 ![bio image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/61bf6a06-a695-4f43-afe4-ea812128bc34)
 
-From here enter the page editor by clicking edit
+From here enter the page editor by clicking **edit**
 
+![click edit image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/bf76b6cf-ef42-46c6-ac24-28124a075709)
 
-
+Next, we're going to click **edit gallery** to view the gallery editor
 
 
 
