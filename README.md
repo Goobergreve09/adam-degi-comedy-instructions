@@ -12,7 +12,7 @@ Manual and instructions for editing [adamdegicomedy.com](www.adamdegicomedy.com)
 ## Table of Contents
  
 1. [Update bio Photo Gallery](#update-gallery)  
-3. [How to Use](#usage)  
+3. [Add Ticket Links](#get-tickets)  
 4. [Licensing](#license)  
 5. [Testing](#tests)  
 6. [Contact Me](#questions)
@@ -43,7 +43,7 @@ Lastly we will add a photo by clicking the "+" symbol and opload an image that i
 
 ![add image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/820d7e21-7c5d-4dd3-a5ea-d934e5132154)
 
-## Usage
+## Get-Tickets
 
 
 
