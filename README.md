@@ -65,7 +65,11 @@ On this page, click the box that you would like to edit the text of.
 
 ![box of text](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a0d4f833-1136-4e56-a491-6be7d243df18)
 
-Next, highlight the words `Get Tickets` and look up the the text editor above.
+Next, highlight the words `Get Tickets` and look up the the text editor above. Cick on the link symbol as shown above.
+
+![highlight tickets image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/1d3a9fd6-f90e-46a4-8d5a-c032407e3b11)
+
+
 ## Contributions
 
 
