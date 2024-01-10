@@ -117,7 +117,7 @@ If you completed all of the above. Here is the finished product:
 
 ![edit get tickets image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/64fd77eb-0fc8-4ccf-9bf1-d97149300078)
 
-From the editor, write *Get Tickets into the box below the event information. 
+From the editor, write *Get Tickets* into the box below the event information. 
 
 ![write in box image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/5e2105bc-2566-4273-9281-b2f128470148)
 
@@ -154,14 +154,3 @@ The software license selected for this application *is as follows*:
 
 
 
-## Tests
-
-
-
-## Questions
-
-If you have any additional questions you can contact me by using the following:
-
- Github Profile: [dfg](https://www.github.com/dfg)
-
- Email Address: fg
