@@ -133,6 +133,8 @@ Once Saved, The event page will now also have a Get Tickets link, although this 
 
 ![link to tickets](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/ff315403-4254-4651-afeb-dec7317a5bbf)
 
+![get tickets on event page](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/ee0da628-cf32-4db8-8734-712404721b4b)
+
 
 
 
