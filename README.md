@@ -11,13 +11,13 @@ Manual and instructions for editing [adamdegicomedy.com](www.adamdegicomedy.com)
   
 ## Table of Contents
  
-1. [Update bio Photo Gallery](#installation)  
+1. [Update bio Photo Gallery](#updatebiophotogallery)  
 3. [How to Use](#usage)  
 4. [Licensing](#license)  
 5. [Testing](#tests)  
 6. [Contact Me](#questions)
 
-## Installation
+## Update Bio Photo Gallery
 
 
 
