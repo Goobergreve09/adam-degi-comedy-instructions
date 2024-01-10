@@ -81,6 +81,10 @@ To update the calendar events - From the main interface scroll down and click **
 
 Next, click the "+" symbol to edit and add an event (This event is automatically synced to the calendar).
 
+![event editor image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/c6efde2d-5fd4-43ad-9f96-fcf6d5f85ad8)
+
+From here, fill in the correct details of the title, date and time, as well as location.
+
 
 
 
