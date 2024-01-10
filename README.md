@@ -113,6 +113,18 @@ If you completed all of the above. Here is the finished product:
 
 ![Capture](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/4d9ecd6d-807d-4247-ab21-cd31faa1a7bd)
 
+(Optional) If you'd like to add a Get Tickets link to your event page, so when a user clicks on the event from the calendar, there is also a get ticket link there. Start by clicking on the event, and then clicking edit.
+
+![edit get tickets image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/64fd77eb-0fc8-4ccf-9bf1-d97149300078)
+
+From the editor, write *Get Tickets into the box below the event information. 
+
+![write in box image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/5e2105bc-2566-4273-9281-b2f128470148)
+
+Highlight the Get tickets text, and click the link button.
+
+
+
 
 
 
