@@ -123,6 +123,12 @@ From the editor, write *Get Tickets into the box below the event information.
 
 Highlight the Get tickets text, and click the link button.
 
+![get tickets add in image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/c9ef4fad-4947-4896-a9dc-5546d1331038)
+
+Once Saved, The event page will now also have a Get Tickets link, although this is already located on the shows page, it would just be another way for a user to get to a ticket link.
+
+![link to tickets](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/ff315403-4254-4651-afeb-dec7317a5bbf)
+
 
 
 
