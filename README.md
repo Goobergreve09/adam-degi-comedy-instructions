@@ -13,9 +13,7 @@ Manual and instructions for editing [adamdegicomedy.com](www.adamdegicomedy.com)
  
 1. [Update bio Photo Gallery](#update-gallery)  
 3. [Add Ticket Links](#get-tickets)  
-4. [Licensing](#license)  
-5. [Testing](#tests)  
-6. [Contact Me](#questions)
+4. [Update Event Calendar](#event-calendar)  
 
 ## Update-Gallery
 To edit the gallery for the bio page start at the webste main editor interface and click website like the following image.
@@ -75,7 +73,11 @@ From here, add in the URL to the ticket link as seen in the image.
 
 
 
-## Contributions
+## Event-Calendar
+
+To update the calendar events - From the main interface scroll down and click **Adam Degi Shows**
+
+
 
 
 
