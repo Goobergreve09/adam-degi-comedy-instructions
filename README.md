@@ -103,7 +103,15 @@ If you completed all of the above. Here is the finished product:
 
 **Mobile View**
 
+![updated event calendar](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/43f07d05-d03b-4706-9f39-4a53b9e9e4af)
 
+**Desktop View Calendar**
+
+![desktop view calendar](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/ef5b1065-d0aa-4582-9078-ad122a137e38)
+
+**Event Page View**
+
+![Capture](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/4d9ecd6d-807d-4247-ab21-cd31faa1a7bd)
 
 
 
