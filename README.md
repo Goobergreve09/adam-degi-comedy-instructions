@@ -24,6 +24,11 @@ To edit the gallery for the bio page start at the webste main editor interface a
 
 Next, Navigate to the **Home** tab as seen in the image.
 
+![click home image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a48da524-5be7-4ec3-870e-3d3b8c672721)
+
+
+Next, navigate to the **Bio** page by clicking the Bio tab.
+
 
 
 
