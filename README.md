@@ -37,7 +37,9 @@ From here enter the page editor by clicking **edit**
 
 Next, we're going to click **edit gallery** to view the gallery editor
 
+![edit gallery image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/b582fb86-c9d6-480d-b855-2d2938e0fbcc)
 
+Lastly we will add a photo by clicking the "+" symbol and opload an image that is downloaded on your device(computer,phone)
 
 ## Usage
 
