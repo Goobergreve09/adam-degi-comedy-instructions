@@ -18,7 +18,7 @@ Manual and instructions for editing [adamdegicomedy.com](www.adamdegicomedy.com)
 6. [Contact Me](#questions)
 
 ## Update-Gallery
-To edit the galler for the bio page start at the webste main editor interface and click website like the following image.
+To edit the gallery for the bio page start at the webste main editor interface and click website like the following image.
 
 ![click website image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/166ced9a-7882-4b34-a3db-0355fbadb53c)
 
@@ -53,7 +53,7 @@ Next, Navigate to the **Home** tab as seen in the image.
 
 ![click home image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a48da524-5be7-4ec3-870e-3d3b8c672721)
 
-
+Next, Navigat to the **Shows** tab by clicking shows.
 ## Contributions
 
 
