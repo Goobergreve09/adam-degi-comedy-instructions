@@ -69,6 +69,11 @@ Next, highlight the words `Get Tickets` and look up the the text editor above. C
 
 ![highlight tickets image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/1d3a9fd6-f90e-46a4-8d5a-c032407e3b11)
 
+From here, add in the URL to the ticket link as seen in the image.
+
+![linktoticketsurl](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/a9035051-7b54-4094-b0c9-a57e6e994275)
+
+
 
 ## Contributions
 
