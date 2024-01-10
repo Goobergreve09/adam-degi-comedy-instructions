@@ -99,6 +99,12 @@ From here upload the image. (I used a random image for an example).
 
 ![add image comedy event](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/2c42494e-7299-435f-846e-836fee55a64e)
 
+If you completed all of the above. Here is the finished product:
+
+**Mobile View**
+
+
+
 
 
 
