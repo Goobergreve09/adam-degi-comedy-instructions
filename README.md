@@ -29,6 +29,12 @@ Next, Navigate to the **Home** tab as seen in the image.
 
 Next, navigate to the **Bio** page by clicking the Bio tab.
 
+![bio image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/61bf6a06-a695-4f43-afe4-ea812128bc34)
+
+From here enter the page editor by clicking edit
+
+
+
 
 
 
