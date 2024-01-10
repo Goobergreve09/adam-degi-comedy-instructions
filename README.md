@@ -77,6 +77,10 @@ From here, add in the URL to the ticket link as seen in the image.
 
 To update the calendar events - From the main interface scroll down and click **Adam Degi Shows**
 
+![adam degi shows image](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/ccca0f09-0cf4-460b-8f85-1f47fba165bc)
+
+Next, click the "+" symbol to edit and add an event (This event is automatically synced to the calendar).
+
 
 
 
