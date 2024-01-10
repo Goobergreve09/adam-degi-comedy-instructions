@@ -93,6 +93,12 @@ Next, Click Publish in the top left corner. This will finalize and render the ev
 
 To add an image to the event that can be seen on the calendar ONLY on a desktop, or from the event page on all fevice, but will not show up on the calendar from a mobile device, click the freshly made event, click the 3 dots, and click settings.
 
+![comedy event image settings eimage](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/510ae529-45f6-4044-a940-2e3ba39f40f0)
+
+From here upload the image. (I used a random image for an example).
+
+![add image comedy event](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/2c42494e-7299-435f-846e-836fee55a64e)
+
 
 
 
