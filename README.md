@@ -85,6 +85,10 @@ Next, click the "+" symbol to edit and add an event (This event is automatically
 
 From here, fill in the correct details of the title, date and time, as well as location.
 
+![edit comedy event](https://github.com/Goobergreve09/adam-degi-comedy-instructions/assets/143923830/b63ee885-1b9d-42ed-b320-9db7d854a756)
+
+Next, Click Publish in the top left corner. This will finalize and render the event to the calendar.
+
 
 
 
